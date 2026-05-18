@@ -1,6 +1,6 @@
 # Hi, I'm Hoang 👋
 
-I'm building projects at the intersection of **data analytics, business analysis, and product thinking**.
+I'm building projects at the intersection of data analytics, business analysis, and product thinking.
 
 I enjoy turning messy business problems into structured analysis, clear insights, and practical decision-support tools.
 
