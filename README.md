@@ -22,11 +22,6 @@ A business analytics project that helps hospitals move from reactive operations 
 ### 🎓 [Integrated University Management Platform](https://github.com/JustACertainBlue/Intergrated-University-Management-Platform)
 Digital platform concept connecting students, alumni, and university stakeholders through career discovery, events, and mentorship.
 
-### 🏦 [Banking Customer Churn Analysis](https://github.com/JustACertainBlue/Banking-Customer-Churn-Analysis)
-A machine learning project predicting customer churn and identifying key factors behind retention risk.
-
-### 👟 [Sportswear Sales Analysis](https://github.com/JustACertainBlue/sportwears-sales-analysis)
-A SQL and Power BI project analyzing Adidas sales performance, pricing, profitability, and growth trends.
 
 ## 🧰 Tools & Skills
 
