@@ -16,12 +16,17 @@ I enjoy turning messy business problems into structured analysis, clear insights
 ### 🧳 [Cultural Tourism Platform](https://github.com/JustACertainBlue/Cultural-Tourism-Platform)
 Web platform concept helping travel agencies and traditional craft villages co-design, manage, and promote cultural tourism experiences.
 
-### 🏥 [Hospital Demand Forecasting & Staff Optimization](https://github.com/JustACertainBlue/Hospital-demand-forecasting-Staff-optimization-system)
-A business analytics project that helps hospitals move from reactive operations to proactive patient flow and staff planning.
-
 ### 🎓 [Integrated University Management Platform](https://github.com/JustACertainBlue/Intergrated-University-Management-Platform)
 Digital platform concept connecting students, alumni, and university stakeholders through career discovery, events, and mentorship.
 
+### 👟 [Footwear Store Manager](https://github.com/JustACertainBlue/Footwear-ECommerce-Store-Manager)
+A footwear store management system for organizing products, inventory, and sales.
+
+### 🏥 [Hospital Demand Forecasting & Staff Optimization](https://github.com/JustACertainBlue/Hospital-demand-forecasting-Staff-optimization-system)
+A business analytics project that helps hospitals move from reactive operations to proactive patient flow and staff planning.
+
+### 📊 [Sportwears Sales Analysis](https://github.com/JustACertainBlue/sportwears-sales-analysis)
+A data analysis project exploring sportswear sales trends and business performance.
 
 ## 🧰 Tools & Skills
 
